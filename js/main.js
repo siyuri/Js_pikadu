@@ -39,6 +39,12 @@ const listUsers = [
     email: 'oktavia@mail.ru',
     password: '202020',
     displayName: 'Oktavia'
+  },
+  {
+    id: '04',
+    email: 'nadja@mail.ru',
+    password: '2054545',
+    displayName: 'nadja'
   }
 ];
 
